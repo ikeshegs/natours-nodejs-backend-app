@@ -2,6 +2,6 @@
 
 config.env
 
-.cache
+/.cache
 
 .vscode
