@@ -77,7 +77,7 @@ const sendErrorProd = (err, req, res) => {
     });
   }
 
-  // Programming or other unknown error: don't send error details to th client
+  // Programming or other unknown error: don't send error details to the client
   // 1) Log error
   console.error('ERROR 💥', err);
 
